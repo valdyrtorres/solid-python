@@ -1,4 +1,4 @@
-class MarkdowGenerator():
+class MarkdownGenerator():
     @classmethod
     def build(cls, repos):
         items = ' '.join(
