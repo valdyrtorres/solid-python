@@ -7,8 +7,8 @@ class GithubClient():
     API_BASE_URL = 'https://api.github.com'
 
     @classmethod
-    def get_repos_by_user(self):
-        response = requests.get(f'{self.API_BASE_URL}/users/{self._user}/repos')
+    def get_repos_by_user(self, user):
+        response = requests.get(f'{self.API_BASE_URL}/users/{user}/repos')
         if response.status_code == 200:
             return {"status_code": 200, "body": response.json()}
         else:
