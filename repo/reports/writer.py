@@ -4,9 +4,10 @@ from .file_writer import ReportFileWriter
 
 class ReportWriter():
 
+    # Devemos usar a injeção de dependência para aplicar o princípio [D]ependency Inversion Principle
     @staticmethod
-    def write(report):
+    def write(report, writer=ReportFileWriter):
         # Lógica...
         # Lógica...
         # report = faz alguma operacao
-        ReportFileWriter.write_file(report)
+        writer.write(report)
