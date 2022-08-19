@@ -3,7 +3,3 @@ class User():
         self._username = username
         self._email = email
 
-    @staticmethod
-    def members():
-        return ['username1', 'username2', 'team1']
-
