@@ -1,0 +1,32 @@
+## REPOS 
+
+**ID:** 126361008 **NAME:** aac **STARS:** 0
+ **ID:** 150910787 **NAME:** actionbazaar **STARS:** 0
+ **ID:** 53877001 **NAME:** AlgaWorks **STARS:** 0
+ **ID:** 133968862 **NAME:** AlgoCasts **STARS:** 0
+ **ID:** 54675245 **NAME:** android **STARS:** 0
+ **ID:** 152781940 **NAME:** android-ndk **STARS:** 0
+ **ID:** 269693380 **NAME:** androidchatbot **STARS:** 0
+ **ID:** 141064949 **NAME:** androidinstagraminteg **STARS:** 0
+ **ID:** 360651182 **NAME:** api-produto **STARS:** 0
+ **ID:** 134968834 **NAME:** apibackend **STARS:** 1
+ **ID:** 140208805 **NAME:** apicontatossemauth **STARS:** 0
+ **ID:** 140106257 **NAME:** apigestaocontatos **STARS:** 0
+ **ID:** 321189862 **NAME:** ApiRestMega **STARS:** 0
+ **ID:** 407882977 **NAME:** app **STARS:** 0
+ **ID:** 208093900 **NAME:** app-go-react **STARS:** 0
+ **ID:** 54676263 **NAME:** AppAula2 **STARS:** 0
+ **ID:** 111218497 **NAME:** ascii_art **STARS:** 0
+ **ID:** 307406752 **NAME:** async-await-webinar **STARS:** 0
+ **ID:** 17689137 **NAME:** atividades **STARS:** 0
+ **ID:** 140214440 **NAME:** auth-nodejs-jwt **STARS:** 0
+ **ID:** 418298047 **NAME:** axon **STARS:** 0
+ **ID:** 317713050 **NAME:** backend-node **STARS:** 0
+ **ID:** 124934524 **NAME:** BollyFilmes **STARS:** 0
+ **ID:** 309533890 **NAME:** bootcamp-gostack-desafios **STARS:** 0
+ **ID:** 313401407 **NAME:** cadastroclientes **STARS:** 0
+ **ID:** 227176491 **NAME:** caelum-stella **STARS:** 0
+ **ID:** 521989834 **NAME:** CalculadoraJurosCompostosEMortgage **STARS:** 0
+ **ID:** 519863299 **NAME:** CalculadoraNotasAcademicas **STARS:** 0
+ **ID:** 362634522 **NAME:** camel **STARS:** 0
+ **ID:** 420520944 **NAME:** camel-antigo **STARS:** 0

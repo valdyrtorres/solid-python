@@ -4,8 +4,6 @@ class User():
         self._email = email
 
     #Simulando interface
-    def pay_bill(self):
+    def work(self):
         raise NotImplementedError
 
-    def code(self):
-        raise NotImplementedError
