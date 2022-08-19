@@ -17,6 +17,8 @@ if __name__ == '__main__':
         markdown_report = ReportsGenerator.build(MarkdownGenerator, repos)
         html_report = ReportsGenerator.build(HTMLGenerator, repos)
         # potencial quebra do 5o. principio do SOLID [D]ependency Inversion Principle
+        # Corrigido na abstracao do write e pode aceitar um segundo parametro
+        # que pode ser um database, um bucket etc
         ReportWriter.write(markdown_report)
 
         print(html_report)
